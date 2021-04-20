@@ -1,0 +1,48 @@
+#z1{
+    background-color:black;
+    height: 80px;
+    width: 1400px;
+}
+#z2{
+    background-image: url("acceuil.jpg") ;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height:1300px;
+    width:1400px;
+    vertical-align: middle;
+}
+#z3{
+    background-color:gray;
+    width: 1400px;
+    height:80px;
+}
+li{
+    color:white;
+    display: inline-block;
+    padding:15px;
+    margin:4px;
+    font-size: 24px;
+    text-decoration: underline;
+    font-family:Bell MT;
+    cursor:pointer;
+}
+h2{
+    text-align:center;
+    font-size: 60px;
+    font-family:Bell MT; 
+}
+body{
+    background-color:rgba(255, 192, 203, 0.731);
+
+}
+h1{
+    text-align: center;
+    font-size:33px;
+}
+#z1,#z2,#z3{
+    margin:auto;
+}
+li:hover{
+    color:green;
+    background-color: violet;
+}

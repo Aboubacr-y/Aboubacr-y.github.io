@@ -1,0 +1,33 @@
+h1{
+    font-family: Algerian;
+    font-size: 33px;
+    text-align: center;
+}
+.china{
+    text-align: center;
+    margin:auto;
+}
+p{
+    text-align:center;
+}
+.chine{
+    text-align: center;
+    margin: auto;
+}
+.chin{
+    text-align: center;
+    margin: auto;
+}
+a:hover{
+    cursor: pointer;
+    color:green;
+    background-color: yellow;
+}
+body{
+    background-color:whitesmoke;
+    color:black;
+}
+iframe{
+    height: 315px;
+    width: 560px;
+}

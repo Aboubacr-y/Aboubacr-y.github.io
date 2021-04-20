@@ -1,0 +1,51 @@
+h1,h2{
+    text-align: center;
+    font-family: algerian;
+    font-size: 34px;
+}
+p{
+    text-align: center;
+}
+.ile{
+    text-align: center;
+    margin:auto;
+}
+.porte{
+    text-align: center;
+    margin:auto;
+    height: 80px;
+    padding-bottom:10px;
+}
+.home{
+    text-align: center;
+    margin:auto;
+}
+li{
+    text-align: center;
+    font-size:18px;
+    font-family:Century ;
+    margin:auto;
+}
+h3{
+    text-align: center;
+    font-size: 22px;
+    font-family:Gill sans MT ;
+}
+body{
+    background-color:whitesmoke;
+    color:black;
+}
+a:hover{
+    color:green;
+    background-color: yellow;
+    cursor: pointer;
+    padding-bottom: 10px;
+}
+.vdo{
+    margin: auto;
+    text-align: center;
+}
+iframe{
+    width:560px;
+    height:315px;
+}
